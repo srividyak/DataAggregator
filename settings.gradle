@@ -1,0 +1,2 @@
+rootProject.name = 'DataAggregator'
+include 'tw-hosebird-kafka', 'common', 'datastore', 'dataextractor'
